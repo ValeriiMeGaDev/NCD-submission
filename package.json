@@ -1,0 +1,14 @@
+{
+  "name": "nearsmartcontract",
+  "version": "1.0.0",
+  "description": "Near Smart Contract with AS",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Valerii Osmachko",
+  "license": "ISC",
+  "devDependencies": {
+    "near-sdk-as": "^3.2.3"
+  }
+}
