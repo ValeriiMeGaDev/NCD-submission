@@ -26,3 +26,6 @@ Transaction Id AzRMGy9PYC88BmHG7vW6FLHVhmCUNb9zj9tdqQhSgPkW
 To see the transaction in the transaction explorer, please open this url in your browser
 https://explorer.testnet.near.org/transactions/AzRMGy9PYC88BmHG7vW6FLHVhmCUNb9zj9tdqQhSgPkW
 'Brian'
+
+
+To run this code please refer to the **Usage** section [here](https://github.com/Learn-NEAR/starter--near-sdk-as)
